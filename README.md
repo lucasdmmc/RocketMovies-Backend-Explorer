@@ -562,5 +562,3 @@ Para iniciar a aplicação, é necessário:
         ```
 
 ---
-
-_Esses são os recursos disponíveis nessa Aplicação, se algum recurso não funcionar como o esperado, verifique essa documentação e tente novamente, mas caso precista, por favor mande um e-mail para [devgustavosantos@outlook.com](mailto:devgustavosantos@outlook.com)._
