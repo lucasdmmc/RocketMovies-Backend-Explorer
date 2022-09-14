@@ -564,7 +564,3 @@ Para iniciar a aplicação, é necessário:
 ---
 
 _Esses são os recursos disponíveis nessa Aplicação, se algum recurso não funcionar como o esperado, verifique essa documentação e tente novamente, mas caso precista, por favor mande um e-mail para [devgustavosantos@outlook.com](mailto:devgustavosantos@outlook.com)._
-
-## :nerd_face: Autor
-
-Feito com :heart: por Dev Gustavo Santos :grinning: Veja meu [LinkedIn.](https://www.linkedin.com/in/devgustavosantos/)
